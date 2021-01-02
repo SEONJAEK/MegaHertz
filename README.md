@@ -15,7 +15,14 @@ This is a car theater homepage
           음식의 조리시간을 확인해 영화 상영 전 효율적인 시간관리를 하여 <br>
           지각입장을 예방할 수 있도록 함<br></pre>
 ![캡처1](https://user-images.githubusercontent.com/69441007/103453088-85d85300-4d19-11eb-819f-ee2a0ef42a44.GIF)
-
-
+<br>
+<br>
 ## 2. Architecture
 ![캡처2](https://user-images.githubusercontent.com/69441007/103453220-06e41a00-4d1b-11eb-8d46-10912b0a9fba.png)
+<br>
+<br>
+## 3. 직접 개발한 부분
+메인페이지 개발 (웹 크롤링, 영화 및 맛집 정보제공, 게시판)
+<br>
+
+<br>
