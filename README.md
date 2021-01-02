@@ -14,7 +14,7 @@ This is a car theater homepage
 <b>-해결방법 </b>: 자동차 극장 홈페이지에서 극장 주변 맛집 정보( 거리, 조리시간, 번호 )를 제공<br>
           음식의 조리시간을 확인해 영화 상영 전 효율적인 시간관리를 하여 <br>
           지각입장을 예방할 수 있도록 함<br></pre>
-          ![캡처1](https://user-images.githubusercontent.com/69441007/103453088-85d85300-4d19-11eb-819f-ee2a0ef42a44.GIF)
+![캡처1](https://user-images.githubusercontent.com/69441007/103453088-85d85300-4d19-11eb-819f-ee2a0ef42a44.GIF)
 
 
 ## 
