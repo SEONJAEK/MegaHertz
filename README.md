@@ -17,4 +17,5 @@ This is a car theater homepage
 ![캡처1](https://user-images.githubusercontent.com/69441007/103453088-85d85300-4d19-11eb-819f-ee2a0ef42a44.GIF)
 
 
-## 
+## Architecture
+![캡처2](https://user-images.githubusercontent.com/69441007/103453220-06e41a00-4d1b-11eb-8d46-10912b0a9fba.png)
