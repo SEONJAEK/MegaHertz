@@ -24,5 +24,5 @@ This is a car theater homepage
 ## 3. 직접 개발한 부분
 메인페이지 개발 (웹 크롤링, 영화 및 맛집 정보제공, 게시판)
 <br>
-
+![캡처3](https://user-images.githubusercontent.com/69441007/103453428-3e53c600-4d1d-11eb-9e68-0451e4016975.png)
 <br>
