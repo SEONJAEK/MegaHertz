@@ -26,5 +26,8 @@ This is a car theater homepage
 &nbsp;- 웹 크롤링<br>
 &nbsp;- 영화 및 맛집 정보제공<br>
 &nbsp;- 게시판 및 DB연동<br>
+
 ![캡처3](https://user-images.githubusercontent.com/69441007/103453428-3e53c600-4d1d-11eb-9e68-0451e4016975.png)
 
+## 4. 전체 개발 페이지
+![캡처4](https://user-images.githubusercontent.com/69441007/103453634-2ed57c80-4d1f-11eb-9cdb-1b2d37582e5e.GIF)
