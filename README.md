@@ -23,7 +23,7 @@ This is a car theater homepage
 <br>
 ## 3. 직접 개발한 부분
 <pre>* 메인페이지 개발<br>
-&nbsp;- 웹 크롤링<br>
+&nbsp;- 롤링 <br>
 &nbsp;- 영화 및 맛집 정보제공<br>
 &nbsp;- 게시판 및 DB연동<br></pre>
 
